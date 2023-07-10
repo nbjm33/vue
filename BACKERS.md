@@ -6,4 +6,10 @@ coverage/
   <a target="_blank" href="https://sponsors.vuejs.org/backers.svg"># Build products
     <img alt="sponsors" src="https://sponsors.vuejs.org/backers.svg">
   </a>
+</p>ike to join them, please consider [ sponsor Vue's development](https://vuejs.org/sponsor/).
+coverage/
+<p align="center">
+  <a target="_blank" href="https://sponsors.vuejs.org/backers.svg"># Build products
+    <img alt="sponsors" src="https://sponsors.vuejs.org/backers.svg">
+  </a>
 </p>
